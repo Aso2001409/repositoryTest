@@ -1,5 +1,5 @@
 <?php
-echo testです;
 echo "うおりゃあああああああああああああああああ";
 echo "消すなああああああああああああああああ";
+echo "aaaaaaaaaaaaaaaaaaa2";
 ?>
